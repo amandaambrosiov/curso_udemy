@@ -1,0 +1,39 @@
+h1 {
+    color: crimson;
+}
+
+@media screen and (max-width: 500px) {
+    h1 {
+        color: blue;
+    }
+}
+
+p {
+    background-color: brown;
+}
+
+@media screen and (min-width: 700px) {
+    p {
+        background-color: blue;
+    }
+}
+
+h3 {
+    display: none;
+}
+
+@media screen and (orientation: landscape) and (max-width: 500px) {
+    h3 {
+        display: block;
+    }
+}
+
+/* PADRÃO DE BREAKPOINTS  */
+
+/* 600px e abaixo: celular */
+
+/* 768px 600px: tablets */
+
+/* 992px até 768px: mini-laptops  */
+
+/* 992px e acima: laptops e desktops */
