@@ -1,0 +1,33 @@
+Forma de classificar um dado:
+
+- Number: Números;
+    exemplos: 10,52.5, -12;
+    operador typeof exibe o tipo de dado;
+Aritmetica com numeros:
+    Operadores: +, -, /, *;
+    segue ordem matemática;
+Special Numbers:
+    infinity;
+    -infinity;
+    NaN (Not a Number);
+
+- String: Texto;
+    tres formas de criar dados de texto:
+        aspas simples;
+        duplas;
+        crase;
+    console.log("texto")
+
+- Boolean: Verddeiro ou falso;
+- Empty values: (null, undefined);
+
+    CONVERSÃO DE TIPO AUTOMÁTICA
+    ex.:
+    5 * null => 0
+    "5" - 2 => 2
+    "5" + 1 => 51
+    "a" * "b" => NaN
+
+    Object; (array é um objeto)
+
+- Object: array...;

@@ -1,0 +1,28 @@
+/* COMENTÁRIO  */
+/* body {
+    background-image: url(../img/74222494_DJV\ MAR\ 969-06\ 1.png);
+} */
+
+h3 {
+    color: green;
+}
+
+.titulo {
+    background-color: cornflowerblue;
+    color: blue;
+}
+
+#titulo {
+    background-color: chocolate;
+    color: orange;
+}
+.upper{
+    text-transform: uppercase;
+}
+.lower{
+    text-transform: lowercase;
+}
+.space {
+    font-size: 20px;
+    letter-spacing: 10px;
+}
