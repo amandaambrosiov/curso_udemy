@@ -1,0 +1,15 @@
+01 - SALVANDO VALORES NA MEMÓRIA
+
+
+02 - SOBRE VARIÁVEIS
+
+não pode usar caracteres especiais
+são case sensitive
+
+03 - Estrutura de uma função
+
+funcao(...)
+
+04 - ESTRUTURAS DE CONTROLE
+
+
